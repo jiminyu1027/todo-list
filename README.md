@@ -2,6 +2,8 @@
 
 자바스크립트를 이용한 투두리스트.
 
+![002](https://user-images.githubusercontent.com/92264611/171679530-114dd0ad-9d1f-4793-ab0d-54a4739c9403.jpg)
+
 - Demo : [https://jimin-todo-list.netlify.app/](https://jimin-todo-list.netlify.app/)
 
 ## 개발 목표
